@@ -1,0 +1,78 @@
+body{
+    background-color: silver;
+}
+
+.bg2 {
+    background-color: slategrey;
+    height: 500px;
+    width: 1100px;
+    margin-left: 75px;
+}
+
+.bg3{
+    background-color: white;
+    height: 300px;
+    width: 800px;
+    margin-left: 150px;
+}
+
+.LPP{
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.label{
+    padding-left: 30px;
+    font-size: 20px;
+}
+
+.label2{
+    font-size: 20px;
+    margin-left: 165px;
+}
+
+.inp{
+    margin-left: 30px;
+    height: 30px;
+    width: 230px;
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.container3{
+    background-color: blue;
+    color: white;
+    height: 50px;
+    width: 250px;
+    font-size: 25px;
+    margin-top: 25px;
+    padding-top: 10px;
+    padding-left: 30px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.box1{
+    background-color: white;
+    color: black;
+    height: 50px;
+    width: 250px;
+    font-size: 25px;
+    margin-top: 25px;
+    padding-top: 10px;
+    padding-left: 40px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
